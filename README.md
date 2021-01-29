@@ -6,7 +6,8 @@ Customers who use a company's platform/service have different needs depending on
 
 Theoretically we will have segments like below:
 
-# Low Value: Customers who are less active than others, not very frequent buyer/visitor and generates very low - zero - maybe negative revenue.
-# Mid Value: In the middle of everything. Often using our platform (but not as much as our High Values), fairly frequent and generates moderate revenue.
-# High Value: The group we don’t want to lose. High Revenue, Frequency and low Inactivity.
+Low Value: Customers who are less active than others, not very frequent buyer/visitor and generates very low - zero - maybe negative revenue.
+Mid Value: In the middle of everything. Often using our platform (but not as much as our High Values), fairly frequent and generates moderate revenue.
+High Value: The group we don’t want to lose. High Revenue, Frequency and low Inactivity.
+
 As the methodology, we need to calculate Recency, Frequency and Monetary Value (we will call it Revenue from now on) and apply unsupervised machine learning to identify different groups (clusters) for each. The Jupyter notebook will provide you with the entire python code for RFM Clustering.
