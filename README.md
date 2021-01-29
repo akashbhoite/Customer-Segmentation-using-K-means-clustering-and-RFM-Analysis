@@ -2,7 +2,7 @@
 
 Customers who use a company's platform/service have different needs depending on their own different characteristics/Personas. Your business should taylor it's products/services depending on the customer's needs. You can do many different segmentations according to what you are trying to achieve. For example if you want to increase retention rate, you can do a segmentation based on churn probability and take suitable actions. However, there are some common and useful segmentation methods as well. One of them which I have implemented in this case is  RFM.
 
-# RFM stands for Recency - Frequency - Monetary Value. 
+## RFM stands for Recency - Frequency - Monetary Value. 
 
 Theoretically we will have segments like below:
 
